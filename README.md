@@ -10,9 +10,7 @@
     <h2 align="center">✨ About Me</h2>
     <p style="text-align: left; margin: 0 10px;">
       🎓 I'm Raza Ali Rizvi, a sophomore studying Software Engineering at FAST-NUCES Lahore. I'm currently working as a full-stack developer, with a strong interest in creating efficient, user-friendly digital experiences.
-
 💡 I'm passionate about solving real-world problems through code and love bringing ideas to life—from frontend UI to backend logic. I'm always exploring new technologies and aim to deepen my skills in AI and data science.
-
 ⚡ I'm curious by nature, constantly learning, and always up for a challenge. Let’s build something awesome together!
     </p>
   </div>
