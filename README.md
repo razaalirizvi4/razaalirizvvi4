@@ -14,16 +14,16 @@
   <!-- Tech stack with floating animation -->
   <h2>🛠 Tech Stack</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,postgres,mysql,bash,powershell,c,c++&theme=dark&perline=5" />
   </div>
 
   <!-- Contact with modern buttons -->
   <h2>📫 Let's Connect</h2>
   <div align="center">
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:razaalirizvi4@example.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/your-profile">
+    <a href="https://linkedin.com/in/syed-raza-ali-rizvi">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
