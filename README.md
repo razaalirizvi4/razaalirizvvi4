@@ -7,8 +7,8 @@
   
   <!-- Stats cards with glassmorphism effect -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180"/>
   </div>
 
   <!-- Tech stack with floating animation -->
@@ -20,10 +20,10 @@
   <!-- Contact with modern buttons -->
   <h2>📫 Let's Connect</h2>
   <div align="center">
-    <a href="mailto:razaalirizvi4@gmail.com@example.com">
+    <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/syed-raza-ali-rizvi">
+    <a href="https://linkedin.com/in/your-profile">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
