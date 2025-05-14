@@ -14,7 +14,7 @@
   <!-- Tech stack with floating animation -->
   <h2>🛠 Tech Stack</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c++,android,flutter,java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,flutter,java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
   </div>
 
   <!-- Contact with modern buttons -->
