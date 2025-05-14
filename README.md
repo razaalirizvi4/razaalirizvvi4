@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated header image -->
-  <img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
   
   <h1 align="center">Hi there, I'm Raza 👋</h1>
   <h3 align="center">Sophomore at FAST-NUCES Lahore</h3>
@@ -8,7 +8,7 @@
   <!-- About Me Section -->
   <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
     <h2 align="center">✨ About Me</h2>
-    <p align="center">
+    <p align="left">
       🎓 I'm Raza Ali Rizvi, a sophomore studying Software Engineering at FAST-NUCES Lahore. I'm currently working as a full-stack developer, with a strong interest in creating efficient, user-friendly digital experiences.
 
 💡 I'm passionate about solving real-world problems through code and love bringing ideas to life—from frontend UI to backend logic. I'm always exploring new technologies and aim to deepen my skills in AI and data science.
@@ -22,8 +22,8 @@
   
   <!-- Stats cards with glassmorphism effect -->
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4" alt="GitHub Stats" style="border-radius: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4" alt="Top Languages" style="border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&rank_icon=percentile" alt="GitHub Stats" style="border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
   </div>
 
   <!-- Tech stack with floating animation -->
