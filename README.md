@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="2px"/>
   
   <!-- Stats cards with glassmorphism effect -->
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0; align-items: flex-start;">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 10px; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&rank_icon=percentile" alt="GitHub Stats" style="padding: 0 10px 0 0;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact" alt="Top Languages" />
   </div>
