@@ -7,14 +7,14 @@
   
   <!-- Stats cards with glassmorphism effect -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&show_icons=true&" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&count_private=true" alt="razaalirizvi4's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&layout=compact" alt="razaalirizvi4's GitHub Stats" />
   </div>
 
   <!-- Tech stack with floating animation -->
   <h2>🛠 Tech Stack</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
   </div>
 
   <!-- Contact with modern buttons -->
