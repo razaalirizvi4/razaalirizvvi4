@@ -21,13 +21,13 @@
   <!-- Stats cards with glassmorphism effect -->
   <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&rank_icon=percentile" alt="GitHub Stats"/>
     </td>
     <td width="30">
-      <!-- Just a spacer column -->
+      <!-- Spacer -->
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&layout=compact" alt="Top Languages"/>
@@ -36,6 +36,7 @@
 </table>
 
 </div>
+
 
   <!-- Tech stack with floating animation -->
   <h2>🛠 Tech Stack</h2>
