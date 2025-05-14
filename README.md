@@ -1,14 +1,25 @@
 <div align="center">
+  <!-- Animated header image -->
+  <img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  
   <h1 align="center">Hi there, I'm Raza 👋</h1>
   <h3 align="center">Sophomore at FAST-NUCES Lahore</h3>
   
+  <!-- About Me Section -->
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
+    <h2 align="center">✨ About Me</h2>
+    <p align="center">
+      [Your introduction text goes here. Tell visitors about your passions, skills, and what makes you unique as a developer.]
+    </p>
+  </div>
+
   <!-- Modern gradient divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="2px"/>
   
   <!-- Stats cards with glassmorphism effect -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&count_private=true" alt="razaalirizvi4's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&layout=compact" alt="razaalirizvi4's GitHub Stats" />
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
   </div>
 
   <!-- Tech stack with floating animation -->
@@ -19,15 +30,15 @@
 
   <!-- Contact with modern buttons -->
   <h2>📫 Let's Connect</h2>
-  <div align="center">
+  <div align="center" style="display: flex; gap: 15px; justify-content: center;">
     <a href="mailto:razaalirizvi4@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8px;"/>
     </a>
     <a href="https://linkedin.com/in/syed-raza-ali-rizvi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
     </a>
   </div>
 
   <!-- Animated snake with gradient -->
-  <img src="https://raw.githubusercontent.com/razaalirizvi4/razaalirizvi4/output/snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/razaalirizvi4/razaalirizvi4/output/snake.svg" width="100%" style="margin-top: 20px;"/>
 </div>
