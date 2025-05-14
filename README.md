@@ -9,7 +9,11 @@
   <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
     <h2 align="center">✨ About Me</h2>
     <p align="center">
-      [Your introduction text goes here. Tell visitors about your passions, skills, and what makes you unique as a developer.]
+      🎓 I'm Raza Ali Rizvi, a sophomore studying Software Engineering at FAST-NUCES Lahore. I'm currently working as a full-stack developer, with a strong interest in creating efficient, user-friendly digital experiences.
+
+💡 I'm passionate about solving real-world problems through code and love bringing ideas to life—from frontend UI to backend logic. I'm always exploring new technologies and aim to deepen my skills in AI and data science.
+
+⚡ I'm curious by nature, constantly learning, and always up for a challenge. Let’s build something awesome together!
     </p>
   </div>
 
