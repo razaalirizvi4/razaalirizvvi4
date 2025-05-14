@@ -23,7 +23,7 @@
   <!-- Stats cards with glassmorphism effect -->
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4" alt="GitHub Stats" style="border-radius: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4" alt="Top Languages" style="border-radius: 10px;"/>
   </div>
 
   <!-- Tech stack with floating animation -->
