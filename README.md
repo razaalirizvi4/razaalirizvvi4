@@ -7,7 +7,7 @@
   
   <!-- Stats cards with glassmorphism effect -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&show_icons=true&theme=radical&hide_border=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&count_private=true" alt="razaalirizvi4's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaalirizvi4&theme=default&show_icons=true&hide_border=true&layout=compact" alt="razaalirizvi4's GitHub Stats" />
   </div>
 
