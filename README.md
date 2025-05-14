@@ -29,5 +29,5 @@
   </div>
 
   <!-- Animated snake with gradient -->
-  <img src="https://raw.githubusercontent.com/razaalirizvi4/razaalirizvi4/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/razaalirizvi4/razaalirizvi4/output/snake.svg" width="100%"/>
 </div>
