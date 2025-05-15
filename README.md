@@ -24,7 +24,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&rank_icon=percentile" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=razaalirizvi4&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td width="30">
       <!-- Spacer -->
@@ -42,7 +42,7 @@
   <!-- Tech stack with floating animation -->
   <h2>🛠 Tech Stack</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,flutter,java,js,react,nodejs,express,postgres,mysql,bash,powershell&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,flutter,java,spring,html,css,bootstrap,tailwind,js,npm,vite,react,nodejs,express,postgres,mysql,bash,powershell,git,figma,linux,ubuntu,&theme=dark&perline=5" />
   </div>
 
   <!-- Contact with modern buttons -->
@@ -61,6 +61,13 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 8px;"/>
     </a>
   </div>
+
+  <!-- Crypto Project -->
+  <h2>💰 Crypto Project</h2>
+  <div align="center" style="margin: 20px 0;">
+    <p>Contract Address (CA): <code>YOUR_CONTRACT_ADDRESS_HERE</code></p>
+  </div>
+  
 
   <!-- Animated snake with gradient -->
   <img src="https://raw.githubusercontent.com/razaalirizvi4/razaalirizvi4/output/snake.svg" width="100%" style="margin-top: 20px;"/>
