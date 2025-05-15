@@ -56,7 +56,7 @@
     <a href="https://linkedin.com/in/syed-raza-ali-rizvi">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
     </a>
-    <a href="https://twitter.com/RazaAliRizi">
+    <a href="https://twitter.com/crypticisdumb">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 8px;"/>
     </a>
     <a href="https://instagram.com/raza.aliiiiiii">
