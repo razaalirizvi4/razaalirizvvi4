@@ -61,7 +61,7 @@
   <!-- Crypto Project -->
   <h2>💰 Crypto Project</h2>
   <div align="center" style="margin: 20px 0;">
-    <p>Contract Address (CA): <code>YOUR_CONTRACT_ADDRESS_HERE</code></p>
+    <p>Contract Address (CA): <code>B7nwMonoEFogfo69iLDMZJFj6udHX7UbBwzGUiBi7kuq</code></p>
   </div>
   
 
